@@ -1,0 +1,9 @@
+/* This block of CSS code styles a header icon element */
+.bpw-header-icon {
+    /* Remove border */
+    border: none;
+    /* Remove background color */
+    background: #c2f8cb;
+    /* Remove padding */
+    padding: 100;
+}
